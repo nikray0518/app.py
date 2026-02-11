@@ -368,7 +368,7 @@ st.markdown("""
         background-color: #ffe64a;
     }
 </style>
-<a href="https://www.buymeacoffee.com" target="_blank" class="bmc-button">☕ Buy me a Coffee</a>
+<a href="https://www.buymeacoffee.com/nikray0518" target="_blank" class="bmc-button">☕ Buy me a Coffee</a>
 """, unsafe_allow_html=True)
 
 # ==========================================
